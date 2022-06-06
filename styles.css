@@ -272,3 +272,14 @@ body {
 .projects-link:hover{
     color: #ff9a00;
 }
+
+.hobby{
+    display: flex;
+    padding-left: 5%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hobby-item li{
+    color: var(--secondary-text-color);
+}
