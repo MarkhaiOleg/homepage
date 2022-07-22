@@ -269,6 +269,12 @@ body {
     cursor: pointer;
 }
 
-.projects-link:hover{
+.projects-link:hover,
+.contact_info_container a:hover{
     color: #ff9a00;
+}
+
+.contact-info__avatar{
+    width: 10rem;
+    height: 10rem;
 }
